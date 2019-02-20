@@ -1,0 +1,43 @@
+{
+	"profile":{
+		"img":"cute.jpg",
+		"name":"sowjanya",
+		"roll":"1233",
+		"place":"guntur",
+		"email":"nallagatlasowjanya@gmail.com"
+	},
+	"carrier":{
+		"info":"i want to seek a job in reputed company to explore my taughts for the company"
+	},
+	"education":[
+		{
+"degree":"b.tech",
+"institute":"vignan",
+"pre":"81%",
+"yop":"2018"
+	},
+	{
+		"degree":"inter",
+"institute":"chaitanya",
+"pre":"93%",
+"yop":"2016"
+	},
+	{
+		"degree":"scc",
+"institute":"st marys",
+"pre":"93%",
+"yop":"2015"
+	}
+],
+"languaue":[
+{
+	"info":"english"
+},
+{
+	"info":"telugu"
+},
+{
+	"info":"hindi"
+}
+]
+}

@@ -1,0 +1,94 @@
+body{
+	background: pink;
+}
+.maindiv{
+	background: bisque;
+	display: flex;
+	justify-content: space-around;
+	margin:8%;
+}
+.leftdiv{
+	background:lightblue;
+	margin: 5%;
+	width: 75%;
+	border-radius: 5%;
+	text-align: center;
+}
+.rightdiv{
+	background: lightgreen;
+	margin: 5%
+	width:75;
+    border-radius:5%;
+    
+}
+img{
+	margin: 7%;
+	border-radius: 8%;
+	width: 90%;
+	height: 30%;
+}
+@media screen and (min-width:320px) and (max-width:480px){
+body{
+	background: red;
+}
+.maindiv{
+	background: bisque;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin:3%;
+}
+.leftdiv{
+	background: lightblue;
+	width: 90%;
+	border-radius:3%;
+	text-align: center;
+}
+.rightdiv{
+	background:lightgreen;
+	margin: 3%
+	width:90%;
+	padding: 1%
+    border-radius:3%;
+    
+}
+img{
+	margin:7%;
+	border-radius: 5%;
+	width: 90%;
+	height: 30%;
+}
+}
+@media screen and (min-width: 481px) and (max-width:670px){
+	body{
+	background: red;
+}
+.maindiv{
+	background: bisque;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin:3%;
+}
+.leftdiv{
+	background: lightblue;
+	width: 70%;
+	border-radius:3%;
+	text-align: center;
+}
+.rightdiv{
+	background:lightgreen;
+	margin: 3%
+	width:90%;
+	padding: 1%
+    border-radius:3%;
+    
+}
+img{
+	margin:3%;
+	border-radius: 5%;
+	width: 70%;
+	height: 30%;
+}
+}
+}
